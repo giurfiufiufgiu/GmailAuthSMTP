@@ -25,3 +25,10 @@ At this stage, the refresh_tokens are retrieved in the authentication process - 
 Thanks
 
 Geoffrey Smith
+
+My Notes:
+Please notice The new Data Module. its easy to call from any gui.
+You can build the adapter to send the Subject Body and other email parameters. even Attachment is implemented, for one document.
+The Encrypyion bridge is a stub, you must roll your own. 
+If you are planning on saving the Token in ini file.
+
